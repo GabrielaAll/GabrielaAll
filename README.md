@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Gabriela! 👋
 
-<!--
-**GabrielaAll/GabrielaAll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍🎓 I have a degree in Systems Analysis and Development and I am currently pursuing my second degree in Computer Science.
+👩🏻‍💻 Passionate about technology, artificial intelligence, and Machine Learning engineering.
 
-Here are some ideas to get you started:
+- 🔭 Currently studying Java FullStack, Artificial Intelligence, software architecture, and automations.
+- 📕 I wrote a super interesting E-book for anyone curious about AI. 
+- 💬 Let's talk about Java, AI, Python, SQL, LLMs, and ML engineering.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriela-silva-alves/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Technologies & Tools:
+- **Languages:** Java, Python, SQL, C#
+- **Data & Cloud:** AWS, GCP, Power BI, Amazon QuickSight
